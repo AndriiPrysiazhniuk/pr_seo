@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prseo.com.ua/sitemap.xml
